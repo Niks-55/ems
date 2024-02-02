@@ -1,0 +1,12 @@
+.button-spacing .swal2-actions{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.confirm-button-class {
+  margin-right: 10px; /* Adjust the value as needed for the desired space */
+}
+
+.cancel-button-class {
+  margin-left: 10px; /* Adjust the value as needed for the desired space */
+}
